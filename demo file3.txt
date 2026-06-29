@@ -1,0 +1,7 @@
+The comment line (# Please adapt and uncomment...) is fine, but make sure the name and email lines are not starting with #.
+
+First save using :wq, return to Git Bash, and run:
+
+git config --global --list
+
+Then send me the output, and I'll confirm whether everything is saved correctly.
